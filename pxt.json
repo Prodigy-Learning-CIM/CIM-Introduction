@@ -3,20 +3,17 @@
     "version": "0.0.0",
     "description": "",
     "dependencies": {
-        "core": "*",
-        "builder": "*"
+        "core": "*"
     },
     "files": [
         "README.md",
-        "main.blocks",
-        "main.ts"
+        "main.ts",
+        "Lesson2/2.1/2.1.md"
     ],
-    "testFiles": [
-        "test.ts"
-    ],
+    "testFiles": [],
     "public": true,
     "supportedTargets": [
         "minecraft"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
