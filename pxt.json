@@ -8,7 +8,11 @@
     "files": [
         "README.md",
         "main.ts",
-        "Lesson2/2.1/2.1.md"
+        "Lesson2/2.1/2.1.md",
+        "Lesson3/3.1/3.1.md",
+        "Lesson3/3.1/images/test.md",
+        "Lesson3/3.1.1/3.1.1.md",
+        "Lesson3/3.1.1/images/image.md"
     ],
     "testFiles": [],
     "public": true,
